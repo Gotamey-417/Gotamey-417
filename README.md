@@ -6,7 +6,7 @@
 👀 I’m interested in web development & cybersecurity
 
 |
-🌱 I’m currently learning JavaScript & Python
+
 
 |
 💻 I have experience in C, C++, and Java
